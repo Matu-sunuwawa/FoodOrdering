@@ -1,0 +1,3 @@
+python-telegram-bot == 20.7 
+# telebot7 == 0.1 
+telebot == 0.0.5 
